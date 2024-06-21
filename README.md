@@ -3,8 +3,8 @@
 I am a university student ,my name is Hyuk.
 
 - Taipei City .
-- single
-- sleep
+- stock trader
+<!-- sleep -->
 
 <!--
 **Hyukna/Hyukna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
