@@ -4,6 +4,8 @@ I am a university student ,my name is Hyuk.
 
 - Taipei City .
 - stock trader
+  
+ [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/hyukna)
 <!-- sleep -->
 
 <!--
